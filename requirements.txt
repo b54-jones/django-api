@@ -7,3 +7,5 @@ pytest
 pytest-django
 pytest-mock
 python-dotenv
+gunicorn
+dj-database-url
